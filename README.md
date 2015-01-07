@@ -1,7 +1,4 @@
 # Animal-Farm
-Ett litet test
-
-Mest skapat för att testa GitHub
 
 Vill ni vara med och testa?
 
