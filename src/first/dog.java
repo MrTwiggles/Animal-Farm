@@ -64,4 +64,11 @@ public class dog {
 		this.height = height;
 		
 	}
+	
+	/** €ndrar hundens antal ben
+	 * 
+	 */
+	public void changeNbrLegs(int legs) {
+		this.nbrLegs = legs;
+	}
 }
